@@ -10,3 +10,13 @@ https://www.anaconda.com/download/
 一部のソースコードの実行にはOpenCVが必要です．anacondaインストール後に，以下のコマンドをコマンドプロンプト上で実行するとインストールされます．
 
     pip install opencv-python
+
+## 練習問題
+
+GitHub上の[ソースコード・ページ](https://github.com/naka-tomo/practice_python)内の以下のipnbファイル内に練習問題と，
+その回答例としてソースコードが書いてあります．
+
+- 1_list.ipynb
+- 2_string.ipynb
+- 3_file.ipynb
+- 4_numpy.ipynb
