@@ -11,6 +11,12 @@ https://www.anaconda.com/download/
 
     pip install opencv-python
 
+コマンドプロンプト上で，以下のコマンドを実行するとSpyderと呼ばれる，統合環境が実行されます．
+
+    spyder
+
+
+
 ## 練習問題
 
 GitHub上の[ソースコード・ページ](https://github.com/naka-tomo/practice_python)内の以下のipnbファイル内に練習問題と，
@@ -20,3 +26,5 @@ GitHub上の[ソースコード・ページ](https://github.com/naka-tomo/practi
 - 2_string.ipynb
 - 3_file.ipynb
 - 4_numpy.ipynb
+
+各サンプルを参考にしてspyderで実際にプログラムを書き・実行しながら練習してみてください．
