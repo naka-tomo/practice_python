@@ -26,5 +26,7 @@ GitHub上の[ソースコード・ページ](https://github.com/naka-tomo/practi
 - 2_string.ipynb
 - 3_file.ipynb
 - 4_numpy.ipynb
+- 5_graph.ipynb
+- 6_opencv.ipynb
 
 各サンプルを参考にしてspyderで実際にプログラムを書き・実行しながら練習してみてください．
