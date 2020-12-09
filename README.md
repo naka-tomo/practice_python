@@ -22,7 +22,7 @@ https://www.anaconda.com/download/
 
 ## 練習問題
 
-以下のリンクのPC版のページに，練習問題とその回答例としてソースコードが書いてあります．
+以下のリンクのPC版のページに，よく使うPythonのサンプルコードが書いてあります．
 (スマートフォンだと正しく表示出来ない場合があります．)
 
 1. [Listの使い方](https://github.com/naka-tomo/practice_python/blob/master/1_list.ipynb)
@@ -35,3 +35,4 @@ https://www.anaconda.com/download/
 8. [PythonによるGUIの作成](https://github.com/naka-tomo/practice_python/blob/master/8_GUI.ipynb)
 
 各サンプルを参考にしてspyderで実際にプログラムを書き・実行しながら練習してみてください．
+ただ単にコピペするだけではなく，一行一行何をしているのか考えながら**自身でプログラムを打ち込み**実行してください．
