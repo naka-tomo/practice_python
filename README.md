@@ -32,7 +32,8 @@ https://www.anaconda.com/download/
 5. [グラフ表示](https://github.com/naka-tomo/practice_python/blob/master/5_graph.ipynb)
 6. [opencvによる画像処理](https://github.com/naka-tomo/practice_python/blob/master/6_opencv.ipynb)
 7. [上記以外のPythonの処理](https://github.com/naka-tomo/practice_python/blob/master/7_others.ipynb)
-8. [PythonによるGUIの作成](https://github.com/naka-tomo/practice_python/blob/master/8_GUI.ipynb)
+8. [pandasによる表操作](https://github.com/naka-tomo/practice_python/blob/master/8_pandas.ipynb)
+9. [PythonによるGUIの作成](https://github.com/naka-tomo/practice_python/blob/master/9_GUI.ipynb)
 
 各サンプルを参考にしてspyderで実際にプログラムを書き・実行しながら練習してみてください．
 ただ単にコピペするだけではなく，一行一行何をしているのか考えながら**自身でプログラムを打ち込み**実行してください．
