@@ -7,11 +7,12 @@
 
 https://www.anaconda.com/download/
 
-一部のソースコードの実行にはOpenCVが必要です．anacondaインストール後に，以下のコマンドをコマンドプロンプト上で実行するとインストールされます．
+一部のソースコードの実行にはOpenCVが必要です．anacondaインストール後に，以下のコマンドをAnaconda Prompt上で実行するとインストールされます．
+Anaconda Promptは，`スタートメニュー`→`すべてのアプリ`→`Anaconda(64-bit)` →`Anaconda Prompt`にあります．
 
     pip install opencv-python
 
-コマンドプロンプト上で，以下のコマンドを実行するとSpyderと呼ばれる，統合環境が実行されます．
+Anaconda Prompt上で，以下のコマンドを実行するとSpyderと呼ばれる，統合環境が実行されます．
 
     spyder
 
